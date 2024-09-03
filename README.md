@@ -1,8 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
-<br><br><br>
+
 ### Name: Midhun S
 ### Reg.no:212223240087
-<br><br><br>
+
 
 ## AIM 
 To write a python program to perform stop and wait protocol
@@ -44,7 +44,8 @@ while True:
 ```
 <br><br><br>
 <br><br><br>
-
+<br><br><br>
+<br><br><br>
 
 ## OUTPUT
 ### CLIENT
