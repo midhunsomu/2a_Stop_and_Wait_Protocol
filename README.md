@@ -38,6 +38,12 @@ while True:
     s.send("Acknowledgement Received".encode())
 ```
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## OUTPUT
 ### CLIENT
 ![client](https://github.com/user-attachments/assets/db543433-0db9-4029-9652-a575506177f1)
